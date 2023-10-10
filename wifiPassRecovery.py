@@ -61,10 +61,10 @@ telegram_message = "\n".join(
 )
 
 # Token API bot Telegram Anda
-bot_token = "6679588494:AAGt5ePJfAT3o5U-0OCEYfw3xnk49nd4Vdc"
+bot_token = ""
 
 # ID obrolan (chat ID) di Telegram di mana Anda ingin mengirim pesan
-chat_id = "1556715660"
+chat_id = ""
 
 # Menggunakan threading untuk mengirim pesan di latar belakang
 thread = threading.Thread(
