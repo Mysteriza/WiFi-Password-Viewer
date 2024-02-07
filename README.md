@@ -11,4 +11,4 @@ You can use this program to retrieve all saved WiFi passwords on someone's compu
 [Contact me on Telegram ](https://tii.la/telegram-rifqi)
 
 ## DISCLAIMER
-This program is not for hacking WiFi, but for retrieving the password of WiFi networks that have been previously connected to your computer. This program cannot hack WiFi networks that have never been connected before, and it cannot hack WiFi networks around you!
+This program is not for hacking WiFi, but for retrieving the password of WiFi networks that have been previously connected to your computer. This program cannot hack WiFi networks that have never been connected before, and it cannot hack WiFi networks around you! And it only works on Windows!
